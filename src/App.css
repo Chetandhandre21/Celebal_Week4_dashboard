@@ -1,0 +1,32 @@
+/* Dark mode styles */
+body.dark {
+  background-color: #121212;
+  color: #e5e7eb;
+}
+
+body.dark .sidebar {
+  background-color: #111827;
+}
+
+body.dark .navbar {
+  background-color: #1f2937;
+  color: white;
+  box-shadow: none;
+}
+
+body.dark .navbar-title {
+  color: white;
+}
+
+body.dark .theme-toggle {
+  background-color: #2563eb;
+  color: white;
+}
+
+body.dark .page-content {
+  background-color: #1e293b;
+}
+.app-container{
+   display: flex;
+   
+}
